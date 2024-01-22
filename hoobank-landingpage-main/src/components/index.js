@@ -8,6 +8,7 @@ import Testimonials from "./Testimonials";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Footer from "./Footer";
+import Cursor from "./Cursor";
 
 export {
   Navbar,
@@ -20,4 +21,5 @@ export {
   Clients,
   CTA,
   Footer,
+  Cursor,
 };

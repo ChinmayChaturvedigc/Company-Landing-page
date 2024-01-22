@@ -13,6 +13,10 @@ import {
   send,
   shield,
   star,
+  icon1,
+  icon3,
+  icon4,
+  icon2,
 } from "../assets";
 
 export const navLinks = [
@@ -208,5 +212,24 @@ export const clients = [
   {
     id: "client-4",
     logo: dropbox,
+  },
+];
+
+export const icon = [
+  {
+    id: 1,
+    img: icon1,
+  },
+  {
+    id: 2,
+    img: icon2,
+  },
+  {
+    id: 3,
+    img: icon3,
+  },
+  {
+    id: 4,
+    img: icon4,
   },
 ];

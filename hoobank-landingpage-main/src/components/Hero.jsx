@@ -26,7 +26,7 @@ const Hero = () => {
 
         <a href={`#home`}>
           <div className="m-4 box-border h-[4.5rem] w-[3rem] p-4 border-2 rounded-[200px] ">
-            <img className=" h-[2rem] w-[2rem]" src={arrowUp} />
+            <img className="animate-bounce h-[2rem] w-[2rem]" src={arrowUp} />
           </div>
         </a>
         <p

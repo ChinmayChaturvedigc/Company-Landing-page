@@ -14,7 +14,7 @@ const Cursor = () => {
   return (
     <div
       ref={customRef}
-      className="z-40 rounded-[50%] w-[50px] h-[50px] border-4 border-cyan-500/50 pointer-events-none overflow-hidden transform translate-x-0 translate-y-0 translate-z-0 fixed"></div>
+      className=" z-40 rounded-[50%] w-[50px] h-[50px] border-4 border-cyan-500/50 pointer-events-none overflow-hidden transform translate-x-0 translate-y-0 translate-z-0 fixed "></div>
   );
 };
 
